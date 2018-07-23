@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ContactExample</string>
+    <string name="title_permission_needed">Request Permission</string>
+    <string name="msg_permission_rationale">This permission is needed to load contact. If cancel, you might need to grant permission in Settings</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
 </resources>
